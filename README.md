@@ -16,3 +16,6 @@ A declaration is usually wrapped in curly braces
 You can make your CSS code more readable by spreading your style declarations across multiple lines. You can also indent your code if you like. This doesn't affect how your code is rendered .
 
 it just makes it easier for you to read,code that is easy to read makes it easy to debug and understand if working in a team.
+
+Also to note is comments.Comments help explain the code that we write. it looks like this./*this is a comment*/.
+Comments are usually ignored by the browser
