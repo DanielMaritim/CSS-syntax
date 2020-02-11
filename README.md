@@ -9,7 +9,9 @@ The property is the CSS that will carry the value that will alter the HTML
 
 Then the value is what implement the alter/change.
 
-Also we can call the syntax as having a selector and a declaration block
+Also we can call the syntax as having a selector and a declaration block and usually ends with a semi colon.
+
+A declaration is usually wrapped in curly braces
 
 You can make your CSS code more readable by spreading your style declarations across multiple lines. You can also indent your code if you like. This doesn't affect how your code is rendered .
 
